@@ -28,3 +28,5 @@ Este projeto é parte do desafio da Imersão 360, focado em WebAPIs REST. Utiliz
   "lastName": "Silva",
   "age": 30
 }
+```
+![p3.png](p3.png)
