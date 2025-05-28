@@ -14,7 +14,7 @@ Este projeto é parte do desafio da Imersão 360, focado em WebAPIs REST. Utiliz
 ### 🔍 Buscar informações de um usuário específico
 - Método: `GET`
 - URL: `https://dummyjson.com/users/1`
-![Buscar usuário](prints/buscar-usuario.png)
+![p2.png](p2.png)
 
 ---
 
