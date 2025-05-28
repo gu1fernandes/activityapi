@@ -7,7 +7,7 @@ Este projeto é parte do desafio da Imersão 360, focado em WebAPIs REST. Utiliz
 ### 🔍 Listar todos os usuários
 - Método: `GET`
 - URL: `https://dummyjson.com/users`
-![Listar usuários](prints/listar-usuarios.png)
+![p1.png](p1.png)
 
 ---
 
